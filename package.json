@@ -1,0 +1,22 @@
+{
+  "name": "feevale-trabalho",
+  "version": "1.0.0",
+  "description": "Feed de noticias para trabalho da feevale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamfgoncalves/feed-noticias-feevale.git"
+  },
+  "keywords": [
+    "]"
+  ],
+  "author": "William Goncalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamfgoncalves/feed-noticias-feevale/issues"
+  },
+  "homepage": "https://github.com/williamfgoncalves/feed-noticias-feevale#readme"
+}
