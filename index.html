@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Noticias Feevale</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+      <h1 id="bigOnr"></h1>
+    <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyBh6ES0Wr0XNRbe3pbkJ1KZzycWhSqvA9Q",
+        authDomain: "noticias-feevale.firebaseapp.com",
+        databaseURL: "https://noticias-feevale.firebaseio.com",
+        projectId: "noticias-feevale",
+        storageBucket: "noticias-feevale.appspot.com",
+        messagingSenderId: "236069914669"
+      };
+      firebase.initializeApp(config);
+      var BigOne = document.getElementById('bigOnr');
+      var dbRef = firebase.database().ref().child('text');
+      dbRef.on('value', snap => BigOne.innerText = snap.val());
+    </script>
+    </body>
+</html>

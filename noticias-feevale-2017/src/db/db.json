@@ -1,0 +1,524 @@
+{
+    "articles":[
+       {
+          "id":1,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Paula Barra",
+          "title":"Ibovespa sugere teste de topo histórico e 3 ações que podem abrir compra na próxima semana",
+          "description":"As recomendações foram feitas pelo analista Aliakyn Pereira de Sá, da XP Investimentos, no Visão Técnica desta sexta-feira",
+          "url":"http://www.infomoney.com.br/mercados/analise-tecnica/noticia/7090971",
+          "urlToImage":"http://images.immedia.com.br//28/28772_2_L.png",
+          "publishedAt":null
+       },
+       {
+        "id":2,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Rodrigo Tolotti Umpieres",
+          "title":"Futuro da Previdência, reforma ministerial e mais 4 eventos que vão agitar a próxima semana",
+          "description":"Política volta a ser o principal driver do mercado nos próximos dias, enquanto EUA terá semana bem curta com Dia de Ação de Graças",
+          "url":"http://www.infomoney.com.br/mercados/noticia/7090331",
+          "urlToImage":"http://images.immedia.com.br/26/26423_2_L.jpg",
+          "publishedAt":null
+       },
+       {
+          "id":3,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Paula Barra",
+          "title":"DEBATE INFOMONEY - Ações x Tesouro Direto: qual dos dois é melhor investir agora?",
+          "description":"Editor-chefe do InfoMoney, Thiago Salomão, e professor Alan Ghani debateram nesta sexta-feira (17) sobre o assunto; acompanhe como foi",
+          "url":"http://www.infomoney.com.br/mercados/acoes-e-indices/noticia/7090246",
+          "urlToImage":"http://images.immedia.com.br//28/28770_2_L.png",
+          "publishedAt":null
+       },
+       {
+        "id":4,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Your Name",
+          "title":"Black Friday - Uma semana de descontos | InfoMoney - Informação que vale dinheiro",
+          "description":"Black Friday - Uma semana de descontos | InfoMoney - Informação que vale dinheiro",
+          "url":"http://cursos.infomoney.com.br/black-friday",
+          "urlToImage":"https://images.clickfunnels.com/15/cbbe70cacd11e7b068f9f0b2ebb33d/black-friday-share.jpg",
+          "publishedAt":null
+       },
+       {
+        "id":5,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Paula Zogbi",
+          "title":"Momento ideal? Por que este ano é diferente de 2012 para investimentos imobiliários",
+          "description":"Quem começou a investir em 2012 saiu machucado do mercado, mas o momento era totalmente diferente",
+          "url":"http://www.infomoney.com.br/imoveis/fundos-imobiliarios/noticia/7090531",
+          "urlToImage":"http://images.immedia.com.br//23/23265_2_L.jpg",
+          "publishedAt":null
+       },
+       {
+        "id":6,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Júlia Miozzo",
+          "title":"Tesla apresenta o revolucionário Semi, seu primeiro caminhão elétrico; conheça",
+          "description":"De acordo com Musk, o veículo consegue rodar até 800 quilômetros com uma única carga de bateria, ao mesmo tempo em que consegue carregar até 36 mil quilos de carga",
+          "url":"http://www.infomoney.com.br/negocios/grandes-empresas/noticia/7090823",
+          "urlToImage":"http://images.immedia.com.br//28/28768_2_L.jpg",
+          "publishedAt":null
+       },
+       {
+        "id":7,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Paula Zogbi",
+          "title":"Vice-presidente de diversidade da Apple deixa empresa após comentário sobre homens brancos",
+          "description":"Após 20 anos de empresa, executiva ocupava esse cargo há apenas 6 meses",
+          "url":"http://www.infomoney.com.br/negocios/grandes-empresas/noticia/7091060",
+          "urlToImage":"http://images.immedia.com.br//27/27521_2_L.jpg",
+          "publishedAt":null
+       },
+       {
+        "id":8,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Mariana d'Ávila",
+          "title":"As promoções mais absurdas da Black Friday 2016, segundo o ReclameAqui",
+          "description":"Consumidor deve estar atento a promoções falsas para evitar dores de cabeça",
+          "url":"http://www.infomoney.com.br/minhas-financas/consumo/noticia/7059105",
+          "urlToImage":"http://images.immedia.com.br//28/28696_2_L.png",
+          "publishedAt":null
+       },
+       {
+        "id":9,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Giovanna Sutto",
+          "title":"Apple confirma data de lançamento do iPhone X no Brasil",
+          "description":"Preços já são conhecidos: a versão de 64 GB custará R$ 6.999  e o de 256 GB custará R$ 7.799",
+          "url":"http://www.infomoney.com.br/minhas-financas/gadgets/noticia/7090367",
+          "urlToImage":"http://images.immedia.com.br//28/28599_2_L.jpg",
+          "publishedAt":null
+       },
+       {
+        "id":10,
+          "source":{
+             "id":"info-money",
+             "name":"InfoMoney"
+          },
+          "author":"Giovanna Sutto",
+          "title":"Os salários das crianças de StrangerThings",
+          "description":"As duas temporadas somam 17 episódios, o que significa que em média cada ator mirim tenha embolsado US$ 510 mil, cerca de R$ 1.673.000, por enquanto",
+          "url":"http://www.infomoney.com.br/carreira/salarios/noticia/7088286",
+          "urlToImage":"http://images.immedia.com.br//25/25197_2_L.jpg",
+          "publishedAt":null
+       },
+       {
+        "id":11,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Estão definidos os quatro times que sobem à Série A de 2018",
+          "description":"Rodada deste sábado da Série B definiu os dois últimos classificados à elite de 2018.",
+          "url":"http://br.blastingnews.com/esporte/2017/11/estao-definidos-os-quatro-times-que-sobem-a-serie-a-de-2018-002177505.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/19/660x290/b_1433x630/serie-b-teve-definicoes-neste-sabado_1695681.jpg",
+          "publishedAt":"2017-11-19T01:08:01Z"
+       },
+       {
+        "id":12,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Entenda as razões que levam o extremista Jair Bolsonaro ser popular entre jovens",
+          "description":"Segundo a última pesquisa Datafolha, Bolsonaro está em segundo lugar com 16% das intenções de voto.",
+          "url":"http://br.blastingnews.com/politica/2017/11/entenda-as-razoes-que-levam-o-extremista-jair-bolsonaro-ser-popular-entre-jovens-002174717.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/17/660x290/b_1433x630/figura-polemica-ainda-pode-trazer-muitos-transtornos_1693855.jpg",
+          "publishedAt":"2017-11-18T19:51:13Z"
+       },
+       {
+        "id":13,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Dilma não guarda rancor de quem bateu panela: 'Perdoo'",
+          "description":"Ex-presidente da República sofreu pressão especialmente das classes mais altas.",
+          "url":"http://br.blastingnews.com/politica/2017/11/dilma-nao-guarda-rancor-de-quem-bateu-panela-perdoo-002172581.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/16/660x290/b_1433x630/dilma-voltou-a-falar-do-impeachment_1692283.jpg",
+          "publishedAt":"2017-11-16T17:28:46Z"
+       },
+       {
+        "id":14,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Militares tomam o controle do Zimbábue e presidente é detido",
+          "description":"Presidente Robert Mugabe está há 37 anos no poder; Forças Armadas negam que ação seja um golpe de Estado",
+          "url":"http://br.blastingnews.com/mundo/2017/11/militares-tomam-o-controle-do-zimbabue-e-presidente-e-detido-002171447.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/16/660x290/b_1433x630/militares-assumem-o-poder-no-zimbabue-presidente-robert-mugabe-e-acusado-de-praticar-atos-criminosos_1691431.jpg",
+          "publishedAt":"2017-11-16T10:49:42Z"
+       },
+       {
+        "id":15,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Como de costume, Temer dá para trás e já repensa reforma ministerial ampla",
+          "description":"Michel Temer já está cogitando fazer as mudanças nas pastas em dois momentos.",
+          "url":"http://br.blastingnews.com/politica/2017/11/como-de-costume-temer-da-para-tras-e-ja-repensa-reforma-ministerial-ampla-002168685.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/15/660x290/b_1433x630/temer-continua-completamente-perdido_1689965.jpg",
+          "publishedAt":"2017-11-15T13:55:04Z"
+       },
+       {
+          "id":16,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Terremoto deixa mais de 450 mortos na fronteira entre o Irã e o Iraque",
+          "description":"Tremor de magnitude 7,3 foi registrado na região de Derbendîxan, no norte do Iraque, e afetou severamente região vizinha no Irã",
+          "url":"http://br.blastingnews.com/mundo/2017/11/terremoto-deixa-mais-de-450-mortos-na-fronteira-entre-o-ira-e-o-iraque-002166417.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/14/660x290/b_1433x630/moradores-observam-predio-destruido-por-terremoto-na-regiao-de-sarpol-e-zahab-no-ira_1687753.jpg",
+          "publishedAt":"2017-11-14T11:02:52Z"
+       },
+       {
+          "id":17,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Temer deve realizar reforma exigida pelo Centrão e diminuir espaço do PSDB",
+          "description":"Tucanos ocupam atualmente quatro ministérios. Com sinalização do partido de que deve desembarcar, reforma ministerial seria mais fácil.",
+          "url":"http://br.blastingnews.com/politica/2017/11/temer-deve-realizar-reforma-exigida-pelo-centrao-e-diminuir-espaco-do-psdb-002163855.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/13/660x290/b_1433x630/aecio-ainda-e-quem-segura-o-psdb-no-governo_1685961.jpg",
+          "publishedAt":"2017-11-13T11:44:08Z"
+       },
+       {
+        "id":18,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Saiba os nomes que compõem as principais facções que formam o rachado PSDB",
+          "description":"Partido está completamente rachado. Decisão de Aécio de afastar Tasso só confirma isso.",
+          "url":"http://br.blastingnews.com/politica/2017/11/saiba-os-nomes-que-compoem-as-principais-faccoes-que-formam-o-rachado-psdb-002162495.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/12/660x290/b_1433x630/situacao-do-psdb-internamente-esta-pessima_1685159.jpg",
+          "publishedAt":"2017-11-12T20:00:37Z"
+       },
+       {
+        "id":19,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Marina admite candidatura e diz que houve 'crime' nas eleições de 2014",
+          "description":"Marina Silva deve mais uma vez concorrer pela Rede ao pleito presidencial.",
+          "url":"http://br.blastingnews.com/politica/2017/11/marina-admite-candidatura-e-diz-que-houve-crime-nas-eleicoes-de-2014-002156751.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/9/660x290/b_1433x630/marina-silva-deve-se-candidatar-em-2018_1680735.jpg",
+          "publishedAt":"2017-11-09T17:56:30Z"
+       },
+       {
+        "id":20,
+          "source":{
+             "id":"blasting-news-br",
+             "name":"Blasting News (BR)"
+          },
+          "author":"Blasting News",
+          "title":"Um ano depois de eleito, Trump registra baixa popularidade e coleciona polêmicas",
+          "description":"Eleito em 9 de novembro de 2016, Donald Trump celebra crescimento da economia americana, mas continua enfrentando escândalos políticos",
+          "url":"http://br.blastingnews.com/mundo/2017/11/um-ano-depois-de-eleito-trump-registra-baixa-popularidade-e-coleciona-polemicas-002154535.html",
+          "urlToImage":"http://staticr1.blastingcdn.com/media/photogallery/2017/11/8/660x290/b_1433x630/eleicao-de-donald-trump-completa-um-ano-nesta-quinta-feira-dia-9-de-novembro_1679191.jpg",
+          "publishedAt":"2017-11-09T11:08:00Z"
+       },
+       {
+        "id":21,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":"A TARDE On Line",
+          "title":"Deputado anti-LGBT renuncia após flagra de sexo com homem no gabinete",
+          "description":"O parlamentar construiu a carreira política levantando a bandeira contra os LGBTs. Devido à conduta inapropriada, como alegou, e sem dar detalhes, Goodman renunciou depois de ter uma reunião com o líder republicano do Legislativo de Ohio, Cliff Rosenberger. O porta-voz do líder, Brad Miller, explicou à imprensa americana que o parceiro do político não era funcionário nem tinha cargo eletivo na Casa. Pró-família tradicional no discurso político, o ex-deputado pediu desculpas a quem tenha se desapontado com sua conduta. Em nota, o americano pediu privacidade para começar o próximo capítulo da vida. Todos trazemos nossas próprias lutas e provações à vida pública. Isso tem sido verdade para mim, e sinceramente me arrependo que minhas ações e minhas escolhas tenham me impedido de servir meus eleitores e nosso Estado de maneira que reflita os melhores ideais do serviço público. Para aqueles a quem desapontei, sinto muito, destacou.",
+          "url":"http://atarde.uol.com.br/mundo/noticias/1913218-deputado-antilgbt-renuncia-apos-flagra-de-sexo-com-homem-no-gabinete",
+          "urlToImage":"http://fw.atarde.com.br/2017/11/750_20171118155117863.jpg",
+          "publishedAt":"2017-11-18T19:07:09+00:00"
+       },
+       {
+        "id":22,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":"iG São Paulo",
+          "title":"Temer e Maia discutem reforma da Previdência na Câmara",
+          "description":"O presidente Michel Temer se reuniu com o presidente da Câmara Rodrigo Maia. Entenda a tramitação da reforma da Previdência na Câmara dos Deputados.",
+          "url":"http://ultimosegundo.ig.com.br/politica/2017-11-18/temer-maia-previdencia-camara.html",
+          "urlToImage":"https://i0.statig.com.br/bancodeimagens/eb/sl/mx/ebslmx2bnk06mgtnxzj4aau5a.jpg",
+          "publishedAt":"2017-11-18T21:08:00+00:00"
+       },
+       {
+        "id":23,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":"iG São Paulo",
+          "title":"Magistrados vão ao STF para reverter decisão que livrou Picciani",
+          "description":"Segundo juízes, decisão envolvendo Picciani é exclusiva do Congresso. Saiba  mais sobre a decisão que liberou Picciani, Albertassi e Mello da prisão.",
+          "url":"http://ultimosegundo.ig.com.br/politica/2017-11-18/magistrados-supremo-picciani.html",
+          "urlToImage":"https://i0.statig.com.br/bancodeimagens/et/sp/79/etsp79y0xflbd6we64kvx74uj.jpg",
+          "publishedAt":"2017-11-18T18:53:00+00:00"
+       },
+       {
+        "id":24,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":null,
+          "title":"Ministério da Defesa da Argentina diz ter detectado sinais de satélite que supõe serem de submarino desaparecido",
+          "description":"",
+          "url":"https://g1.globo.com/mundo/noticia/ministerio-da-defesa-da-argentina-diz-ter-detectado-sinais-de-satelite-que-supoe-serem-de-submarino-desaparecido.ghtml",
+          "urlToImage":"https://s2.glbimg.com/ZIdH1jlwcL1ftAE-eLetgNziLUg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/R/3/KgydZ1QB2siSQsXHnJaQ/2017-11-17t162614z-634673914-rc12190c73e0-rtrmadp-3-argentina-submarine.jpg",
+          "publishedAt":"2017-11-19T00:46:00+00:00"
+       },
+       {
+        "id":25,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":"Estado de Minas, Estado de Minas",
+          "title":"'Povo n�o tem que pagar Imposto de Renda sobre sal�rio', diz Lula",
+          "description":"Ex-presidente n�o entrou em detalhes sobre a proposta, mas citou como exemplos categorias profissionais que conseguem negociar aumentos salariais, mas viram alvo da Receita",
+          "url":"https://www.em.com.br/app/noticia/politica/2017/11/18/interna_politica,917779/povo-nao-tem-que-pagar-imposto-de-renda-sobre-salario-diz-lula.shtml",
+          "urlToImage":"https://i.em.com.br/0IorjexiRq_JZ315zLFY1EnAObE=/900x500/smart/imgs.em.com.br/estadodeminas/logo_face.png",
+          "publishedAt":"2017-11-18T19:01:00+00:00"
+       },
+       {
+        "id":26,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":null,
+          "title":"Ex-assessor diz à PF que destruiu provas a mando de Geddel",
+          "description":"Depoimento de um ex-assessor parlamentar pode complicar ainda mais a situação do ex-ministro Geddel Vieira Lima.",
+          "url":"http://g1.globo.com/jornal-nacional/noticia/2017/11/ex-assessor-diz-pf-que-destruiu-provas-mando-de-geddel.html",
+          "urlToImage":"http://s2.glbimg.com/_7HaAYmgi9zKZi3FsSGdtB3VvPM=/1200x630/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/41/94/6299441",
+          "publishedAt":"2017-11-18T23:53:17+00:00"
+       },
+       {
+        "id":27,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":null,
+          "title":"DF começa a adotar a carteira de motorista digital",
+          "description":"O Departamento de Trânsito do Distrito Federal (Detran-DF) lançou hoje (16) o serviço de Carteira Nacional de Habilitação (CNH) no formato dig",
+          "url":"https://www.terra.com.br/noticias/brasil/distrito-federal-comeca-a-adotar-a-carteira-de-motorista-digital,76db5f40548983520a19c930d7157d960mp03h0g.html",
+          "urlToImage":"http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/11/16/cnhdigital.png",
+          "publishedAt":"2017-11-16T16:30:33+00:00"
+       },
+       {
+        "id":28,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":null,
+          "title":"Corpos de mortos no Caju são levados para IML após 12 horas",
+          "description":"Os corpos dos dois suspeitos mortos por militares do Exército após furarem um bloqueio na frente do Arsenal de Guerra do Rio na madrugada deste sábado, no...",
+          "url":"https://extra.globo.com/casos-de-policia/corpos-de-mortos-no-caju-sao-levados-para-iml-apos-12-horas-22084660.html",
+          "urlToImage":"https://extra.globo.com/incoming/22084657-382-32e/w976h550-PROP/1pericia.jpg",
+          "publishedAt":"2017-11-18T22:02:30+00:00"
+       },
+       {
+        "id":29,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":null,
+          "title":"Vinte anos depois, homem encontra carro perdido em estacionamento",
+          "description":"Alemão registrou roubo de veículo em 1997, mas polícia o encontrou estacionado na mesma garagem onde ele tinha sido deixado.",
+          "url":"https://www.terra.com.br/noticias/mundo/europa/vinte-anos-depois-homem-encontra-carro-perdido-em-estacionamento,ac0fbda926a0eecc25c395fad59de880mugc7tpf.html",
+          "urlToImage":"http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/11/18/98811390gettyimages-181802246.jpg",
+          "publishedAt":"2017-11-18T15:48:40+00:00"
+       },
+       {
+        "id":30,
+          "source":{
+             "id":"google-news-br",
+             "name":"Google News (Brasil)"
+          },
+          "author":null,
+          "title":"Grupo na web que incita violência contra morador de rua no Rio é investigado após assassinato",
+          "description":"Uma mulher foi morta em Copacabana com um tiro no peito. Na internet, pessoas pedem ação da 'turma da massagem'.",
+          "url":"https://g1.globo.com/rio-de-janeiro/noticia/grupo-na-web-que-incita-violencia-contra-morador-de-rua-no-rio-e-investigado-apos-assassinato.ghtml",
+          "urlToImage":"https://s2.glbimg.com/Gg84ho-WUnhHvUetNdtrX2caoSs=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/6293196.jpg",
+          "publishedAt":"2017-11-16T14:26:04+00:00"
+       },
+       {
+        "id":31,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"MP entra com ação para anular sessão que libertou Picciani, Melo e Albertassi | Ancelmo - O Globo",
+          "description":"O Ministério Público do Rio entrou com um mandado de segurança, com pedido de liminar, requerendo que seja declarada nula a votação dos deputados ...",
+          "url":"http://blogs.oglobo.globo.com/ancelmo/post/mp-entra-com-acao-para-anular-sessao-que-libertou-picciani-melo-e-albertassi.html",
+          "urlToImage":"https://s2.glbimg.com/hl4piV5hDziYZi6vdrSmZ88MFeI=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2017/11/18/73033421_a_riot_policeman_fires_rubber_bullets_during_clashes_with_demonstrators_outside_the_rio_de.jpg",
+          "publishedAt":null
+       },
+       {
+        "id":32,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"Crivella fala sobre soltura de deputados do PMDB 'Pessoalmente, gosto deles'",
+          "description":"O prefeito, no entanto, não quis julgar a decisão da bancada do PRB, que votou pela manutenção da prisão",
+          "url":"https://oglobo.globo.com/brasil/crivella-fala-sobre-soltura-de-deputados-do-pmdb-pessoalmente-gosto-deles-22085505",
+          "urlToImage":"https://ogimg.infoglobo.com.br/in/22085503-f28-6e0/FT1086A/73046476_RIORIO-DE-JANEIRO18-11-2017PREFEITO-MARCELO-CRIVELLA-VISITA-ACAO-SOCIAL-NA-ESC.jpg",
+          "publishedAt":"2017-11-18T20:00:09Z"
+       },
+       {
+        "id":33,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"Unicamp aplica 1ª fase do vestibular 2018 para 83,7 mil neste domingo",
+          "description":"Candidatos devem chegar aos locais de prova às 12h (horário de Brasília) e portões fecham às 13h. Universidade oferece 3,3 mil vagas em 70 cursos de graduação.",
+          "url":"https://g1.globo.com/sp/campinas-regiao/noticia/unicamp-aplica-1-fase-do-vestibular-2018-para-837-mil-neste-domingo.ghtml",
+          "urlToImage":"https://s2.glbimg.com/wtYp3dIniGHUqon4Eghl9vEWSzE=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2012/01/17/unicamp2.jpg",
+          "publishedAt":"2017-11-19T02:00:57.148Z"
+       },
+       {
+        "id":34,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"Temer acelera reforma ministerial no fim de semana para aprovar mudanças na Previdência",
+          "description":"",
+          "url":"https://g1.globo.com/politica/blog/valdo-cruz/post/2017/11/18/temer-acelera-reforma-ministerial-no-fim-de-semana-para-aprovar-reforma-da-previdencia.ghtml",
+          "urlToImage":"https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png",
+          "publishedAt":"2017-11-18T21:46:05.784Z"
+       },
+       {
+        "id":35,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"Negros representam 71% das vítimas de homicídios no país, diz levantamento",
+          "description":"De 2005 a 2015, número de brancos assassinados caiu 12%, e o de negros subiu 18%.",
+          "url":"https://g1.globo.com/sp/sao-paulo/noticia/negros-representam-71-das-vitimas-de-homicidios-no-pais-diz-levantamento.ghtml",
+          "urlToImage":"https://s2.glbimg.com/0QPBd82jWN1C0OIyTEch36ZD_jo=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/6299342.jpg",
+          "publishedAt":"2017-11-18T22:37:19.866Z"
+       },
+       {
+        "id":36,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"Delator cita caixa 2 em pagamentos por campanhas de Paes e Pedro Paulo",
+          "description":"Renato Pereira fala ainda de 'cartas marcadas' em escolha de agências, mas nega vantagens pessoais a prefeito. Paes diz que delação é mentirosa.",
+          "url":"https://g1.globo.com/rj/rio-de-janeiro/noticia/delator-cita-caixa-2-em-pagamentos-por-campanhas-de-paes.ghtml",
+          "urlToImage":"https://s2.glbimg.com/Zv5hiygiP8zhCQVcedwttGUL5gM=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/6299272.jpg",
+          "publishedAt":"2017-11-18T22:08:42.936Z"
+       },
+       {
+        "id":37,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"Mega-Sena, concurso 1.989: ninguém acerta as seis dezenas e prêmio vai a R$ 50 milhões",
+          "description":"Veja as dezenas sorteadas: 15 - 22 - 30 - 32 - 40 - 58",
+          "url":"https://g1.globo.com/loterias/noticia/mega-sena-concurso-1989-resultado.ghtml",
+          "urlToImage":"https://s2.glbimg.com/VIlBRfYDGPDnkFcmE41S27mZgek=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/r/R/qG5dx3RGiFNwe4PQEXmQ/mega-sena-loteria-2017-07-26-132a0384-fabio-tito-g1.jpg",
+          "publishedAt":"2017-11-18T23:10:24.513Z"
+       },
+       {
+        "id":38,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"Após vitória, nem jogadores do Inter entendem gol anulado: \"Apitou e paramos\"",
+          "description":"Héber Roberto Lopes anula gol legítimo dos donos da casa no início do segundo tempo e gera polêmica. Edenílson revela pedido de desculpas do juiz",
+          "url":"https://globoesporte.globo.com/rs/futebol/times/internacional/noticia/colorados-nao-entendem-gol-anulado-e-revelam-desculpa-de-heber-apitou-e-paramos.ghtml",
+          "urlToImage":"https://s2.glbimg.com/W_PKVBElkprfGeVNmYHg1I3gWOk=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/6298923.jpg",
+          "publishedAt":"2017-11-18T21:59:16.007Z"
+       },
+       {
+        "id":39,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"CRB x Paraná - Campeonato Brasileiro Série B 2017-2017 - globoesporte.com",
+          "description":"Campeonato Brasileiro Série B 2017-2017 no globoesporte.com - veja como foi CRB x Paraná: escalação, informações sobre o jogo, fotos e muito mais",
+          "url":"http://globoesporte.globo.com/al/futebol/brasileirao-serie-b/jogo/18-11-2017/crb-parana/",
+          "urlToImage":"http://s.glbimg.com/es/ge/static/live/temporeal/img/delivery/share/temporeal_facebook_imagem.jpg",
+          "publishedAt":null
+       },
+       {
+        "id":40,
+          "source":{
+             "id":"globo",
+             "name":"Globo"
+          },
+          "author":"Globo",
+          "title":"UFC Sydney - Werdum x Tybura",
+          "description":"Acompanhe o evento em Tempo Real",
+          "url":"https://sportv.globo.com/site/combate/ao-vivo/ufc-sydney-werdum-x-tybura.ghtml",
+          "urlToImage":"https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png",
+          "publishedAt":null
+       }
+    ]
+ }
