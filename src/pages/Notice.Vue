@@ -10,7 +10,7 @@
                 <div class="col-1"></div>
             </div>
         </div>
-              <router-view/>
+        <router-view/>
     </div>
 </template>
 

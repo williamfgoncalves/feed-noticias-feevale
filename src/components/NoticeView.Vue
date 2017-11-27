@@ -8,7 +8,7 @@
           <img style="height: 400px; width: 100%; display: block;" :src="notice.urlToImage" alt="Card image">
           <div class="card-body">
             <p class="card-text">{{notice.description}}</p>
-            <a :href="notice.url" class="card-link">Fonte da noticia</a>
+            <a :href="notice.url" class="card-link" target="_blank">Fonte da noticia</a>
           </div>
           <div class="card-footer text-muted">
             2 days ago
@@ -32,7 +32,6 @@
         service.getNotice(this.$route.params.id)
         .then((response) => {
           this.notice = response.data;
-          console.log(response.data);
         })
       }
     },

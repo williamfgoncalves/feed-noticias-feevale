@@ -34,4 +34,8 @@ export default class NewsService {
     getTenNews(page, numberOfNews = 10){
         return this.request('GET', baseURL + '?_page=' + page + '&_limit=' + numberOfNews);
     }
+
+    getNoticeByType(type){
+        return this.request('GET', baseURL + '?type=' + type);
+    }
 };

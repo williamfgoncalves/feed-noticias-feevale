@@ -2,6 +2,7 @@
     "articles":[
        {
           "id":1,
+          "type": "economia",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -15,6 +16,7 @@
        },
        {
         "id":2,
+        "type": "brasil",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -28,6 +30,7 @@
        },
        {
           "id":3,
+          "type": "economia",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -41,6 +44,7 @@
        },
        {
         "id":4,
+        "type": "economia",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -54,6 +58,7 @@
        },
        {
         "id":5,
+        "type": "economia",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -67,6 +72,7 @@
        },
        {
         "id":6,
+        "type": "tecnologia",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -80,6 +86,7 @@
        },
        {
         "id":7,
+        "type": "mundo",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -93,6 +100,7 @@
        },
        {
         "id":8,
+        "type": "economia",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -106,6 +114,7 @@
        },
        {
         "id":9,
+        "type": "tecnologia",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -119,6 +128,7 @@
        },
        {
         "id":10,
+        "type": "mundo",
           "source":{
              "id":"info-money",
              "name":"InfoMoney"
@@ -132,6 +142,7 @@
        },
        {
         "id":11,
+        "type": "esporte",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -145,6 +156,7 @@
        },
        {
         "id":12,
+         "type": "politica",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -158,6 +170,7 @@
        },
        {
         "id":13,
+        "type": "politica",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -171,6 +184,7 @@
        },
        {
         "id":14,
+        "type": "mundo",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -184,6 +198,7 @@
        },
        {
         "id":15,
+        "type": "politica",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -197,6 +212,7 @@
        },
        {
           "id":16,
+          "type": "mundo",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -210,6 +226,7 @@
        },
        {
           "id":17,
+          "type": "politica",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -223,6 +240,7 @@
        },
        {
         "id":18,
+        "type": "politica",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -236,6 +254,7 @@
        },
        {
         "id":19,
+        "type": "politica",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -249,6 +268,7 @@
        },
        {
         "id":20,
+        "type": "politica",
           "source":{
              "id":"blasting-news-br",
              "name":"Blasting News (BR)"
@@ -262,6 +282,7 @@
        },
        {
         "id":21,
+        "type": "politica",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -275,6 +296,7 @@
        },
        {
         "id":22,
+        "type": "economia",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -288,6 +310,7 @@
        },
        {
         "id":23,
+        "type": "politica",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -301,6 +324,7 @@
        },
        {
         "id":24,
+        "type": "mundo",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -314,6 +338,7 @@
        },
        {
         "id":25,
+        "type": "economia",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -327,6 +352,7 @@
        },
        {
         "id":26,
+        "type": "politica",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -340,6 +366,7 @@
        },
        {
         "id":27,
+        "type": "brasil",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -353,6 +380,7 @@
        },
        {
         "id":28,
+        "type": "brasil",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -366,6 +394,7 @@
        },
        {
         "id":29,
+        "type": "mundo",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -379,6 +408,7 @@
        },
        {
         "id":30,
+        "type": "brasil",
           "source":{
              "id":"google-news-br",
              "name":"Google News (Brasil)"
@@ -392,6 +422,7 @@
        },
        {
         "id":31,
+        "type": "politica",
           "source":{
              "id":"globo",
              "name":"Globo"
@@ -405,6 +436,7 @@
        },
        {
         "id":32,
+        "type": "politica",
           "source":{
              "id":"globo",
              "name":"Globo"
@@ -418,6 +450,7 @@
        },
        {
         "id":33,
+        "type": "brasil",
           "source":{
              "id":"globo",
              "name":"Globo"
@@ -431,6 +464,7 @@
        },
        {
         "id":34,
+        "type": "politica",
           "source":{
              "id":"globo",
              "name":"Globo"
@@ -444,6 +478,7 @@
        },
        {
         "id":35,
+        "type": "brasil",
           "source":{
              "id":"globo",
              "name":"Globo"
@@ -457,6 +492,7 @@
        },
        {
         "id":36,
+        "type": "politica",
           "source":{
              "id":"globo",
              "name":"Globo"
@@ -470,6 +506,7 @@
        },
        {
         "id":37,
+        "type": "brasil",
           "source":{
              "id":"globo",
              "name":"Globo"
@@ -483,6 +520,7 @@
        },
        {
         "id":38,
+        "type": "esporte",
           "source":{
              "id":"globo",
              "name":"Globo"
@@ -496,6 +534,7 @@
        },
        {
         "id":39,
+        "type": "esporte",
           "source":{
              "id":"globo",
              "name":"Globo"
@@ -509,6 +548,7 @@
        },
        {
         "id":40,
+        "type": "esporte",
           "source":{
              "id":"globo",
              "name":"Globo"

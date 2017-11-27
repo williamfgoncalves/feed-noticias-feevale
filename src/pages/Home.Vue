@@ -14,13 +14,11 @@
 
 <script>
     import Menu from '../components/Menu'
-    import Pagination from '../components/Pagination'
     import Carrousel from '../components/Caroussel'
     export default {
         name: 'Home',
         components:{
             Menu,
-            Pagination,
             Carrousel
         }
     }
